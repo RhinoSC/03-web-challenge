@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
+	"github.com/rhinosc/03-web-challenge/internal"
 )
 
 // NewLoaderTicketCSV creates a new ticket loader from a CSV file

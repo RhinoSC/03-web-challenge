@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
+	"github.com/rhinosc/03-web-challenge/internal"
 )
 
 // ServiceTicketDefault represents the default service of the tickets

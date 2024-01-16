@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
+	"github.com/rhinosc/03-web-challenge/internal"
 )
 
 // NewRepositoryTicketMock creates a new repository for tickets in a map

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/RhinoSC/03-web-challenge/internal/application"
+	"github.com/rhinosc/03-web-challenge/internal/application"
 )
 
 func main() {

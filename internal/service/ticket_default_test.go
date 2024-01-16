@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
-	"github.com/RhinoSC/03-web-challenge/internal/repository"
-	"github.com/RhinoSC/03-web-challenge/internal/service"
+	"github.com/rhinosc/03-web-challenge/internal"
+	"github.com/rhinosc/03-web-challenge/internal/repository"
+	"github.com/rhinosc/03-web-challenge/internal/service"
 	"github.com/stretchr/testify/require"
 )
 

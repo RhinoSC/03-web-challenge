@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
 	"github.com/bootcamp-go/web/response"
 	"github.com/go-chi/chi/v5"
+	"github.com/rhinosc/03-web-challenge/internal"
 )
 
 type TicketDefault struct {

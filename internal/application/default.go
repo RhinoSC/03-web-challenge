@@ -3,11 +3,11 @@ package application
 import (
 	"net/http"
 
-	"github.com/RhinoSC/03-web-challenge/internal/handler"
-	"github.com/RhinoSC/03-web-challenge/internal/loader"
-	"github.com/RhinoSC/03-web-challenge/internal/repository"
-	"github.com/RhinoSC/03-web-challenge/internal/service"
 	"github.com/go-chi/chi/v5"
+	"github.com/rhinosc/03-web-challenge/internal/handler"
+	"github.com/rhinosc/03-web-challenge/internal/loader"
+	"github.com/rhinosc/03-web-challenge/internal/repository"
+	"github.com/rhinosc/03-web-challenge/internal/service"
 )
 
 // ConfigAppDefault represents the configuration of the default application

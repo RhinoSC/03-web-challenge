@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/RhinoSC/03-web-challenge/internal"
+	"github.com/rhinosc/03-web-challenge/internal"
 )
 
 // NewRepositoryTicketMap creates a new repository for tickets in a map
